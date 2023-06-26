@@ -2,7 +2,7 @@
 
 This is the Exercise Tracker Microservice project. This project is part of the Back End Development and APIs certification from freeCodeCamp. 
 
-Replit link: https://boilerplate-project-urlshortener.jose-miguelm376.repl.co/
+Replit link: https://boilerplate-project-exercisetracker.jose-miguelm376.repl.co/
 
 https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice
 
