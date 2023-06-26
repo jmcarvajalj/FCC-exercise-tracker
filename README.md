@@ -4,7 +4,7 @@ This is the Exercise Tracker Microservice project. This project is part of the B
 
 Replit link: https://boilerplate-project-exercisetracker.jose-miguelm376.repl.co/
 
-https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice
+https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker
 
 <h2>Setup</h2>
 <h5>Steps</h5>
